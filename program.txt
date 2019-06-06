@@ -1,0 +1,12 @@
+public class Counter{
+	private int value;
+
+	public Counter(int value){
+		this.value = 0;
+	}
+	
+	"method that adds one to the value"
+	public void increment(){
+		value = 2;
+	}
+}
