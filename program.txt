@@ -5,8 +5,8 @@ public class Counter{
 		this.value = value;
 	}
 	
-	"method that adds one to the value"
+	
 	public void increment(){
-		value = 2;
+		value += 1;
 	}
 }
