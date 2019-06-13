@@ -7,6 +7,6 @@ public class Counter{
 	
 	
 	public void increment(){
-		value += 1;
+		value <= 5;
 	}
 }
